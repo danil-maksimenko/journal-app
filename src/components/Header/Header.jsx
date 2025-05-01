@@ -1,5 +1,5 @@
 function Header({ children }) {
-  return <>{children}1</>;
+  return <>{children}</>;
 }
 
 export default Header;
